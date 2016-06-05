@@ -25,7 +25,7 @@ public class SqlClient {
         this.url = String.format("jdbc:oracle:thin:@%s:1521:xe", host);
     }
 
-    public void addTicketProcedure(Ticket ticket){
+    public void addTicketProcedure(Ticket ticket) {
         Connection connection = getConnection();
         String jobquerry = "BEGIN add_ticket(?, ?, ?, ?, ?); END;";
         try {
@@ -37,7 +37,7 @@ public class SqlClient {
             callableStatement.setString(5, ticket.getDeviceName());
             callableStatement.execute();
             connection.close();
-        }catch (SQLException e){
+        } catch (SQLException e) {
             e.printStackTrace();
         }
     }

@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class TestSqlClientConnection {
 
-    private SqlClient client = new SqlClient("10.132.181.157", "support_center", "support_center");
+    private SqlClient client = new SqlClient("192.168.0.185", "support_center", "support_center");
 
     @Test
     public void A_InitialNumOfTickets(){

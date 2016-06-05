@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c71ecf-b509-44f2-9d2c-9d949b80b891" name="Default" comment="" />
+    <list default="true" id="b5c71ecf-b509-44f2-9d2c-9d949b80b891" name="Default" comment="gitignore added">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/support_center/TestSqlClientConnection.class" afterPath="$PROJECT_DIR$/out/test/support_center/TestSqlClientConnection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/TestSqlClientConnection.java" afterPath="$PROJECT_DIR$/Test/TestSqlClientConnection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DAL/SqlClient.java" afterPath="$PROJECT_DIR$/src/DAL/SqlClient.java" />
+    </list>
     <ignored path="support_center.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,11 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ticket.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Ticket.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -85,24 +91,23 @@
       <file leaf-file-name="SqlClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+            <state relative-caret-position="2085">
+              <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-                <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-                <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-                <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
+                <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+                <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+                <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+                <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSqlClientConnection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestSqlClientConnection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/TestSqlClientConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19169329">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            <state relative-caret-position="675">
+              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -111,7 +116,7 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="120">
               <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding />
             </state>
@@ -121,7 +126,7 @@
       <file leaf-file-name="RunSupportCenter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="135">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -131,7 +136,7 @@
       <file leaf-file-name="console_1.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console_1.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="0">
               <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
@@ -141,7 +146,7 @@
       <file leaf-file-name="TicketResponse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="195">
               <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
@@ -159,6 +164,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -175,9 +183,11 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console_1.sql" />
         <option value="$PROJECT_DIR$/src/RunSupportCenter.java" />
-        <option value="$PROJECT_DIR$/src/DAL/SqlClient.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/DAL/SqlClient.java" />
         <option value="$PROJECT_DIR$/Test/TestSqlClientConnection.java" />
+        <option value="$USER_HOME$/Desktop/test.hs" />
+        <option value="$USER_HOME$/Desktop/test3.hs" />
       </list>
     </option>
   </component>
@@ -192,12 +202,12 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
-    <option name="y" value="31" />
+    <option name="x" value="8" />
+    <option name="y" value="61" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -222,6 +232,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,20 +266,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/KdG/JAAR_4/programmeren 2 java/week 2/les materiaal/Voorbeelden_02_Annotations_Testen" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test.hs" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.haskell.config.HaskellConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
@@ -403,6 +431,14 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CabalRunConfiguration" factoryName="Haskell">
+      <module name="" />
+      <setting name="executableName" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <environmetVariables />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -615,7 +651,9 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -624,6 +662,7 @@
       <changelist id="b5c71ecf-b509-44f2-9d2c-9d949b80b891" name="Default" comment="" />
       <created>1450374224054</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1450374224054</updated>
       <workItem from="1450374227389" duration="8674000" />
       <workItem from="1450719831267" duration="634000" />
@@ -651,36 +690,74 @@
       <workItem from="1454184398567" duration="2364000" />
       <workItem from="1454588572070" duration="159000" />
       <workItem from="1454596922970" duration="456000" />
-      <workItem from="1454603605351" duration="52000" />
+      <workItem from="1454603605351" duration="236000" />
+      <workItem from="1454603942582" duration="59000" />
+      <workItem from="1454636716113" duration="1032000" />
+      <workItem from="1454691048370" duration="75000" />
+      <workItem from="1454941433607" duration="392000" />
+      <workItem from="1454946284900" duration="4000" />
+      <workItem from="1454947474596" duration="46000" />
+      <workItem from="1454965859953" duration="135000" />
+      <workItem from="1455185313042" duration="482000" />
+      <workItem from="1455461275118" duration="11000" />
+      <workItem from="1455700885740" duration="574000" />
+      <workItem from="1456133375508" duration="19000" />
+      <workItem from="1456240804995" duration="350000" />
+      <workItem from="1456484936314" duration="64000" />
+      <workItem from="1456485191855" duration="346000" />
+      <workItem from="1456909065135" duration="154000" />
+      <workItem from="1457100762202" duration="519000" />
+      <workItem from="1457389579201" duration="276000" />
+      <workItem from="1457690341918" duration="303000" />
+      <workItem from="1457994624741" duration="43000" />
+      <workItem from="1458561369230" duration="68000" />
+      <workItem from="1458561625508" duration="338000" />
+      <workItem from="1459178515116" duration="192000" />
+      <workItem from="1459186664901" duration="587000" />
+      <workItem from="1459802147827" duration="45000" />
+      <workItem from="1459802227193" duration="226000" />
+      <workItem from="1460896219957" duration="320000" />
+      <workItem from="1460896577232" duration="288000" />
+      <workItem from="1460897347239" duration="11000" />
+      <workItem from="1460927092068" duration="44000" />
+      <workItem from="1460927146194" duration="2089000" />
+      <workItem from="1460962917929" duration="975000" />
+      <workItem from="1460979974563" duration="237000" />
+      <workItem from="1460983507000" duration="414000" />
+      <workItem from="1460984443767" duration="117000" />
+      <workItem from="1460984574574" duration="263000" />
+      <workItem from="1460984968574" duration="465000" />
+      <workItem from="1460988142583" duration="1596000" />
+      <workItem from="1465148991547" duration="326000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSqlClientConnection - 2016.01.15 at 17h 59m 15s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqlClientConnection - 2016.01.15 at 18h 36m 29s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqlClientConnection - 2016.01.15 at 20h 38m 31s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqlClientConnection - 2016.01.16 at 11h 33m 01s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqlClientConnection - 2016.01.18 at 16h 35m 52s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqlClientConnection - 2016.01.23 at 17h 01m 06s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqlClientConnection - 2016.01.28 at 22h 44m 59s.xml">
-      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestSqlClientConnection - 2016.01.28 at 22h 48m 45s.xml">
       <configuration name="TestSqlClientConnection" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestSqlClientConnection - 2016.02.04 at 15h 43m 47s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.02.05 at 02h 45m 35s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.02.05 at 02h 49m 41s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.03.02 at 09h 58m 37s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.03.28 at 20h 16m 27s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.04.17 at 14h 35m 51s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.06.05 at 19h 50m 55s.xml">
+      <configuration name="TestSqlClientConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSqlClientConnection - 2016.06.05 at 20h 47m 20s.xml">
       <configuration name="TestSqlClientConnection" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestSqlClientConnection_B_VoegEenTicketToe - 2016.01.28 at 22h 44m 48s.xml">
@@ -688,7 +765,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46188000" />
+    <option name="totallyTimeSpent" value="59857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -700,19 +777,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="31" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="8" y="61" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32721713" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32568806" sideWeight="0.4907482" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2530675" sideWeight="0.33880597" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.4074627" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2530675" sideWeight="0.661194" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2530675" sideWeight="0.661194" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5925373" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28955224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28955224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27985075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -720,12 +800,11 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39944133" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32721713" sideWeight="0.4907482" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45192307" sideWeight="0.4964029" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -740,6 +819,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore added" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore added" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="7" />
@@ -751,9 +834,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
@@ -761,21 +851,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="217" column="30" selection-start-line="217" selection-start-column="30" selection-end-line="217" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
+            <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+            <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
@@ -783,14 +872,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -798,14 +887,14 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
@@ -813,21 +902,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="217" column="30" selection-start-line="217" selection-start-column="30" selection-end-line="217" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
+            <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+            <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
@@ -835,14 +923,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -850,14 +938,14 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
@@ -865,21 +953,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="217" column="30" selection-start-line="217" selection-start-column="30" selection-end-line="217" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
+            <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+            <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
@@ -887,14 +974,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -902,14 +989,14 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
@@ -917,21 +1004,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="217" column="30" selection-start-line="217" selection-start-column="30" selection-end-line="217" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
+            <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+            <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding />
         </state>
@@ -939,66 +1025,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
@@ -1006,14 +1040,14 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
@@ -1021,21 +1055,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
+            <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+            <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="23" selection-end-column="35" />
           <folding />
         </state>
@@ -1043,14 +1076,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1058,59 +1091,59 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/45fb695a/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/SUPPORT_CENTER.TICKET_RESPONSE">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/45fb695a/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/SUPPORT_CENTER.TICKET">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07092199">
+        <state relative-caret-position="0">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/ojdbc6.jar!/oracle/jdbc/driver/OracleResultSetImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3544601">
+        <state relative-caret-position="0">
           <caret line="622" column="0" selection-start-line="622" selection-start-column="0" selection-end-line="622" selection-end-column="0" />
         </state>
       </provider>
@@ -1143,38 +1176,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DAL/ITicketRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4248366">
+        <state relative-caret-position="0">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
+    <entry file="file://$PROJECT_DIR$/src/Domain/Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1451924449000" expanded="true" signature="796:821" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="796:822" placeholder="add_ticket(?... " />
-            <marker date="1451924449000" expanded="true" signature="1510:1530" placeholder="SELECT * FRO... ticket" />
-            <marker date="1451924449000" expanded="true" signature="2683:2748" placeholder="INSERT INTO TICKET... " />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.gitignore_global">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test2.hs" />
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="120">
           <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
@@ -1182,7 +1218,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunSupportCenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="135">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
@@ -1190,7 +1226,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dc6659e4-9b77-46b0-b4f3-390ce35f2c14/console_1.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
@@ -1198,20 +1234,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Domain/TicketResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="195">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/test.hs" />
+    <entry file="file://$PROJECT_DIR$/src/DAL/SqlClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="146" column="9" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
+          <folding>
+            <marker date="1454965995000" expanded="true" signature="797:822" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="797:823" ph="add_ticket(?... " />
+            <marker date="1454965995000" expanded="true" signature="1513:1533" ph="SELECT * FRO... ticket" />
+            <marker date="1454965995000" expanded="true" signature="2686:2751" ph="INSERT INTO TICKET... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test/TestSqlClientConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19169329">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="675">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/test3.hs" />
   </component>
   <component name="masterDetails">
     <states>
